@@ -1,4 +1,4 @@
-## Hello👋 I'm Ayshwarya Katheria 👨🏻‍💻
+## Hello👋 I'm Ayshwarya Katheria and working in https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg 👨🏻‍💻
 ## I am currently working as a SDET and Devops Engineer. Using below tools :-
 
 
@@ -21,6 +21,7 @@
 <a href="" target="_blank" title="Kubernetes" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30"/></a>&nbsp;&nbsp;
 
 <a href="" target="_blank" title="Jira" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="atlassian_jira" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
 ### I post actively on ...
