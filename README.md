@@ -1,4 +1,5 @@
-## Hello👋 I'm Ayshwarya Katheria and working in https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg 👨🏻‍💻
+## Hello👋 I'm Ayshwarya Katheria and working in <a href="" target="_blank" title="IBM" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="IBM" width="30" height="30"/></a>&nbsp;&nbsp;
+ 👨🏻‍💻
 ## I am currently working as a SDET and Devops Engineer. Using below tools :-
 
 
