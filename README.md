@@ -16,7 +16,7 @@
 <a href="" target="_blank" title="Docker" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Kubernetes" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30"/></a>&nbsp;&nbsp;
 
-<a href="" target="_blank" title="Kubernetes" rel="noreferrer"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/atlassian_jira/atlassian_jira-icon.svg" alt="atlassian_jira" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Jira" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="atlassian_jira" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
 ### I post actively on ...
