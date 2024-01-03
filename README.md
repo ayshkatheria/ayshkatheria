@@ -2,7 +2,7 @@
 I am currently working as a SDET and Devops Engineer. Using below tools :-
 
 
-![Java Logo](https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png?w=50&h=50)
+![Java Logo](https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png?w=5&h=5)
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
 <!--
