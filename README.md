@@ -1,7 +1,6 @@
-## Hello👋 I'm Ayshwarya Katheria and working in <a href="" target="_blank" title="IBM" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="IBM" width="70" height="70"/></a>&nbsp;&nbsp;
- 👨🏻‍💻
+## Hello👋 I'm Ayshwarya Katheria 👨🏻‍💻
 ## I am currently working as a SDET and Devops Engineer. Using below tools :-
-
+<a href="" target="_blank" title="IBM" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="IBM" width="70" height="70"/></a>&nbsp;&nbsp;
 
 <!-- Cloud Technologies -->
 <a href="" target="_blank" title="AWS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
