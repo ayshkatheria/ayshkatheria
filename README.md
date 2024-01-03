@@ -2,20 +2,17 @@
 I am currently working as a SDET and Devops Engineer. Using below tools :-
 
 
-![Java Logo](https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png?w=5&h=5)
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+<!-- Cloud Technologies -->
+<a href="" target="_blank" title="AWS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
 
-<!--
-**ayshkatheria/ayshkatheria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Programming Languages -->
+<a href="" target="_blank" title="Python" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="30" height="30"/></a>&nbsp;&nbsp;
 
-Here are some ideas to get you started:
+<!-- CI/CD and Configuration Management -->
+<a href="" target="_blank" title="Jenkins" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Ansible" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="30" height="30"/></a>&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Containerization and Orchestration -->
+<a href="" target="_blank" title="Docker" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Kubernetes" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30"/></a>&nbsp;&nbsp;
+
