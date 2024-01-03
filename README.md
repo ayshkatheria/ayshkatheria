@@ -6,7 +6,11 @@
 <a href="" target="_blank" title="AWS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
 
 <!-- Programming Languages -->
+<a href="" target="_blank" title="Java" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Python" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Groovy" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="Groovy" width="30" height="30"/></a>&nbsp;&nbsp;
+
+
 
 <!-- CI/CD and Configuration Management -->
 <a href="" target="_blank" title="Jenkins" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="30" height="30"/></a>&nbsp;&nbsp;
